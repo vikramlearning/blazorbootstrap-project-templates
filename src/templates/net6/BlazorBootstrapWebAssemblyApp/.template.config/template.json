@@ -1,1 +1,13 @@
-
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Vikram Reddy",
+    "classifications": ["Web", "ASP.NET Core", "Blazor", "BlazorBootstrap", "WebAssembly", "Empty"],
+    "identity": "Blazor.Bootstrap.Templates.WebAssembly.NET6",
+    "name": "BlazorBootstrap WebAssembly App",
+    "shortName": "blazorbootstrap-wasm-net6",
+    "sourceName": "BlazorBootstrapWebAssemblyApp",
+    "description": "Creates an BlazorBootstrap WebAssembly App project. ",
+    "preferNameDirectory": true,
+    "symbols": {
+    }
+  }
