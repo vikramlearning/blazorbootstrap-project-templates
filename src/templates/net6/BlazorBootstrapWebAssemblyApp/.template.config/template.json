@@ -3,7 +3,7 @@
     "author": "Vikram Reddy",
     "classifications": ["Web", "ASP.NET Core", "Blazor", "BlazorBootstrap", "WebAssembly", "Empty"],
     "identity": "Blazor.Bootstrap.Templates.WebAssembly.NET6",
-    "name": "BlazorBootstrap WebAssembly App",
+    "name": "BlazorBootstrap WebAssembly App (.NET 6)",
     "shortName": "blazorbootstrap-wasm-net6",
     "sourceName": "BlazorBootstrapWebAssemblyApp",
     "description": "Creates an BlazorBootstrap WebAssembly App project. ",
