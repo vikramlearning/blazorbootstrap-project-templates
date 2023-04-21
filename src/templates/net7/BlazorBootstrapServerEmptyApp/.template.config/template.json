@@ -1,0 +1,22 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Vikram Reddy",
+  "classifications": [
+    "Web", 
+    "ASP.NET Core", 
+    "Blazor", 
+    "Server", 
+    "BlazorBootstrap", 
+    "Blazor Bootstrap", 
+    "Blazor Bootstrap Server Empty", 
+    "Empty"
+  ],
+  "identity": "Blazor.Bootstrap.Templates.Server",
+  "name": "BlazorBootstrapApp",
+  "shortName": "blazorbootstrap-server-empty",
+  "sourceName": "BlazorBootstrapServerEmptyApp",
+  "description": "A project template for creating a Blazor Bootstrap server app that runs server-side.",
+  "preferNameDirectory": true,
+  "symbols": {
+  }
+}

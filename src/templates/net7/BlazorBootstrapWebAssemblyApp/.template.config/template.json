@@ -1,12 +1,21 @@
 {
     "$schema": "http://json.schemastore.org/template",
     "author": "Vikram Reddy",
-    "classifications": ["Web", "ASP.NET Core", "Blazor", "BlazorBootstrap", "WebAssembly", "Empty"],
+    "classifications": [
+      "Web", 
+      "ASP.NET Core", 
+      "Blazor", 
+      "WebAssembly", 
+      "BlazorBootstrap", 
+      "Blazor Bootstrap", 
+      "Blazor Bootstrap WebAssembly", 
+      "Empty"
+    ],
     "identity": "Blazor.Bootstrap.Templates.WebAssembly",
-    "name": "BlazorBootstrap WebAssembly App",
+    "name": "BlazorBootstrapApp",
     "shortName": "blazorbootstrap-wasm",
     "sourceName": "BlazorBootstrapWebAssemblyApp",
-    "description": "Creates an BlazorBootstrap WebAssembly App project. ",
+    "description": "A project template for creating a Blazor Bootstrap app that runs on WebAssembly.",
     "preferNameDirectory": true,
     "symbols": {
     }

@@ -6,7 +6,7 @@
     <PackageId>Blazor.Bootstrap.Templates</PackageId>
     <Title>BlazorBootstrap Templates</Title>
     <Authors>Vikram Reddy</Authors>
-    <Description>BlazorBootstrap custom templates for dotnet new.</Description>
+    <Description>Blazor Bootstrap custom templates for dotnet new.</Description>
     <PackageTags>dotnet-new;templates;blazor;webassembly;blazorbootstrap;bootstrap;blazorwebassembly;server;blazorserver</PackageTags>
     <TargetFramework>netstandard2.0</TargetFramework>
 

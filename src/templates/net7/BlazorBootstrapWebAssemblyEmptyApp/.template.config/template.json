@@ -8,13 +8,13 @@
       "WebAssembly", 
       "BlazorBootstrap", 
       "Blazor Bootstrap", 
-      "Blazor Bootstrap WebAssembly", 
+      "Blazor Bootstrap WebAssembly Empty", 
       "Empty"
     ],
-    "identity": "Blazor.Bootstrap.Templates.WebAssembly.NET6",
+    "identity": "Blazor.Bootstrap.Templates.WebAssemblyEmpty",
     "name": "BlazorBootstrapApp",
-    "shortName": "blazorbootstrap-wasm-net6",
-    "sourceName": "BlazorBootstrapWebAssemblyApp",
+    "shortName": "blazorbootstrap-wasm-empty",
+    "sourceName": "BlazorBootstrapWebAssemblyEmptyApp",
     "description": "A project template for creating a Blazor Bootstrap app that runs on WebAssembly.",
     "preferNameDirectory": true,
     "symbols": {

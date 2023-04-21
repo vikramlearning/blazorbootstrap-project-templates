@@ -5,17 +5,17 @@
       "Web", 
       "ASP.NET Core", 
       "Blazor", 
-      "WebAssembly", 
+      "Server", 
       "BlazorBootstrap", 
       "Blazor Bootstrap", 
-      "Blazor Bootstrap WebAssembly", 
+      "Blazor Bootstrap Server", 
       "Empty"
     ],
-    "identity": "Blazor.Bootstrap.Templates.WebAssembly.NET6",
+    "identity": "Blazor.Bootstrap.Templates.Server",
     "name": "BlazorBootstrapApp",
-    "shortName": "blazorbootstrap-wasm-net6",
-    "sourceName": "BlazorBootstrapWebAssemblyApp",
-    "description": "A project template for creating a Blazor Bootstrap app that runs on WebAssembly.",
+    "shortName": "blazorbootstrap-server",
+    "sourceName": "BlazorBootstrapServerApp",
+    "description": "A project template for creating a Blazor Bootstrap server app that runs server-side.",
     "preferNameDirectory": true,
     "symbols": {
     }
