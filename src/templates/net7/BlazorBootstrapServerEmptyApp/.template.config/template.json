@@ -11,7 +11,7 @@
     "Blazor Bootstrap Server Empty", 
     "Empty"
   ],
-  "identity": "Blazor.Bootstrap.Templates.Server",
+  "identity": "Blazor.Bootstrap.Templates.ServerEmpty",
   "name": "BlazorBootstrapApp",
   "shortName": "blazorbootstrap-server-empty",
   "sourceName": "BlazorBootstrapServerEmptyApp",

@@ -11,9 +11,9 @@
       "Blazor Bootstrap Server", 
       "Empty"
     ],
-    "identity": "Blazor.Bootstrap.Templates.Server",
+    "identity": "Blazor.Bootstrap.Templates.Server.NET6",
     "name": "BlazorBootstrapApp",
-    "shortName": "blazorbootstrap-server",
+    "shortName": "blazorbootstrap-server-net6",
     "sourceName": "BlazorBootstrapServerApp",
     "description": "A project template for creating a Blazor Bootstrap server app that runs server-side.",
     "preferNameDirectory": true,
