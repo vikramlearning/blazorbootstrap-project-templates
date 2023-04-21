@@ -14,6 +14,10 @@
   "identity": "Blazor.Bootstrap.Templates.Server",
   "name": "Blazor Bootstrap - Server App",
   "shortName": "blazorbootstrap-server",
+  "tags": {
+    "language": "C#",
+    "type":"project"
+  },
   "sourceName": "BlazorBootstrapServerApp",
   "description": "A project template for creating a Blazor Bootstrap server app that runs server-side.",
   "preferNameDirectory": true,

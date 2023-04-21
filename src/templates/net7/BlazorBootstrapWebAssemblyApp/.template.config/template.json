@@ -14,6 +14,10 @@
     "identity": "Blazor.Bootstrap.Templates.WebAssembly",
     "name": "Blazor Bootstrap - WebAssembly App",
     "shortName": "blazorbootstrap-wasm",
+    "tags": {
+      "language": "C#",
+      "type":"project"
+    },
     "sourceName": "BlazorBootstrapWebAssemblyApp",
     "description": "A project template for creating a Blazor Bootstrap app that runs on WebAssembly.",
     "preferNameDirectory": true,
