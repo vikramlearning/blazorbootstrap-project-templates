@@ -22,6 +22,10 @@ Several quick start options are available:
 [![NuGet](https://img.shields.io/nuget/vpre/blazor.bootstrap.templates)](https://www.nuget.org/packages/blazor.bootstrap.templates/absoluteLatest)
 [![NuGet](https://img.shields.io/nuget/dt/blazor.bootstrap.templates.svg)](https://www.nuget.org/packages/blazor.bootstrap.templates/absoluteLatest)
 
+## Screenshots
+
+![image](https://user-images.githubusercontent.com/2337067/233800604-43986ae7-27dd-4f17-9af6-c2f1a6f07097.png)
+
 ## References
 
 - [Custom templates for dotnet new](https://learn.microsoft.com/en-us/dotnet/core/tools/custom-templates)
