@@ -1,6 +1,30 @@
-# blazorbootstrap-project-templates
-BlazorBootstrap custom templates for dotnet new
+# Blazor Bootstrap Templates
+
+### Create Blazor projects with Blazor Bootstrap Templates within a minute.
+
+## Table of contents
+
+- [Quick start](#quick-start)
+- [References](#references)
+- [Creators](#creators)
+- [Copyright and license](#copyright-and-license)
+
+## Quick start
+
+Several quick start options are available:
+
+- Clone the repo: `git clone https://github.com/vikramlearning/blazorbootstrap-project-templates.git`
+- Install with [NuGet](https://www.nuget.org/): `dotnet new install Blazor.Bootstrap.Templates::0.0.1` 
 
 ## References
 
-1. [Custom templates for dotnet new](https://learn.microsoft.com/en-us/dotnet/core/tools/custom-templates)
+- [Custom templates for dotnet new](https://learn.microsoft.com/en-us/dotnet/core/tools/custom-templates)
+
+## Creators
+
+**Vikram Reddy**
+
+## Copyright and license
+
+Code and documentation copyright 2023 [Blazor Bootstrap](https://getblazorbootstrap.com/) Code released under the [Apache-2.0 License](https://github.com/vikramlearning/blazorbootstrap-project-templates/blob/master/LICENSE.txt).
+
