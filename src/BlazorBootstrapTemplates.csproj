@@ -4,6 +4,7 @@
     <PackageId>Blazor.Bootstrap.Templates</PackageId>
     <PackageType>Template</PackageType>
     <PackageVersion>0.0.1</PackageVersion>
+		<PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
 
     <Authors>Vikram Reddy</Authors>
     <Title>Blazor Bootstrap Templates</Title>
@@ -20,12 +21,23 @@
     <IncludeBuildOutput>false</IncludeBuildOutput>
     <ContentTargetFolders>content</ContentTargetFolders>
 
-		<Copyright>Copyright © 2023 Blazor Bootstrap</Copyright>
+		<Copyright>Copyright © 2023 Blazor Bootstrap Templates</Copyright>
   </PropertyGroup>
 
   <ItemGroup>
     <Content Include="templates\**\*" Exclude="templates\**\bin\**;templates\**\obj\**" />
     <Compile Remove="**\*" />
+  </ItemGroup>
+
+	<ItemGroup>
+	  <None Include="nuget\README.md">
+	    <Pack>True</Pack>
+	    <PackagePath>\</PackagePath>
+	  </None>
+	  <None Include="images\logo\128X128.png">
+	    <Pack>True</Pack>
+	    <PackagePath>\</PackagePath>
+	  </None>
   </ItemGroup>
 
 </Project>
