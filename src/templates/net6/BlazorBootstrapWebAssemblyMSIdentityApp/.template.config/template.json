@@ -18,7 +18,7 @@
       "language": "C#",
       "type":"project"
     },
-    "sourceName": "BlazorBootstrapWebAssemblyApp",
+    "sourceName": "BlazorBootstrapWebAssemblyMSIdentityApp",
     "description": "A project template for creating a Blazor Bootstrap app with Microsoft Identity authentication that runs on WebAssembly.",
     "preferNameDirectory": true,
     "symbols": {
