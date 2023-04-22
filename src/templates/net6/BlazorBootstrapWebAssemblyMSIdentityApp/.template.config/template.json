@@ -7,18 +7,19 @@
       "Blazor", 
       "Blazor Bootstrap",
       "Empty",
-      "Web", 
-      "WebAssembly"
+      "Web",
+      "WebAssembly",
+      "Microsoft Identity"
     ],
-    "identity": "Blazor.Bootstrap.Templates.WebAssembly",
-    "name": "Blazor Bootstrap - WebAssembly App",
-    "shortName": "blazorbootstrap-wasm",
+    "identity": "Blazor.Bootstrap.Templates.WebAssembly.NET6",
+    "name": "Blazor Bootstrap - WebAssembly MSI App (.NET 6)",
+    "shortName": "blazorbootstrap-wasm-msi-net6",
     "tags": {
       "language": "C#",
       "type":"project"
     },
     "sourceName": "BlazorBootstrapWebAssemblyApp",
-    "description": "A project template for creating a Blazor Bootstrap app that runs on WebAssembly.",
+    "description": "A project template for creating a Blazor Bootstrap app with Microsoft Identity authentication that runs on WebAssembly.",
     "preferNameDirectory": true,
     "symbols": {
     }

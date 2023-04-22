@@ -1,13 +1,14 @@
 {
     "$schema": "http://json.schemastore.org/template",
+    "icon": "icon.png",
     "author": "Vikram Reddy",
     "classifications": [
-      "Web", 
       "ASP.NET Core", 
       "Blazor", 
-      "WebAssembly",
       "Blazor Bootstrap",
-      "Empty"
+      "Empty",
+      "Web", 
+      "WebAssembly"
     ],
     "identity": "Blazor.Bootstrap.Templates.WebAssemblyEmpty",
     "name": "Blazor Bootstrap - WebAssembly App Empty",

@@ -4,21 +4,22 @@
     "author": "Vikram Reddy",
     "classifications": [
       "ASP.NET Core", 
-      "Blazor", 
+      "Blazor",
       "Blazor Bootstrap",
       "Empty",
-      "Web", 
-      "WebAssembly"
+      "Web",  
+      "WebAssembly",
+      "Microsoft Identity"
     ],
     "identity": "Blazor.Bootstrap.Templates.WebAssembly",
-    "name": "Blazor Bootstrap - WebAssembly App",
-    "shortName": "blazorbootstrap-wasm",
+    "name": "Blazor Bootstrap - WebAssembly MSI App",
+    "shortName": "blazorbootstrap-wasm-msi",
     "tags": {
       "language": "C#",
       "type":"project"
     },
     "sourceName": "BlazorBootstrapWebAssemblyApp",
-    "description": "A project template for creating a Blazor Bootstrap app that runs on WebAssembly.",
+    "description": "A project template for creating a Blazor Bootstrap app with Microsoft Identity authentication that runs on WebAssembly.",
     "preferNameDirectory": true,
     "symbols": {
     }

@@ -3,12 +3,12 @@
     "icon": "icon.png",
     "author": "Vikram Reddy",
     "classifications": [
-      "Web", 
       "ASP.NET Core", 
       "Blazor", 
-      "WebAssembly", 
       "Blazor Bootstrap",
-      "Empty"
+      "Empty",
+      "Web",
+      "WebAssembly"
     ],
     "identity": "Blazor.Bootstrap.Templates.WebAssembly.NET6",
     "name": "Blazor Bootstrap - WebAssembly App (.NET 6)",
