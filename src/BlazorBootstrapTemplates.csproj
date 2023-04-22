@@ -3,7 +3,7 @@
   <PropertyGroup>
     <PackageId>Blazor.Bootstrap.Templates</PackageId>
     <PackageType>Template</PackageType>
-    <PackageVersion>0.0.1</PackageVersion>
+    <PackageVersion>0.0.2</PackageVersion>
 		<PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
 
     <Authors>Vikram Reddy</Authors>
