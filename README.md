@@ -19,8 +19,8 @@ Several quick start options are available:
 
 ## Status
 
-[![NuGet](https://img.shields.io/nuget/vpre/blazor.bootstrap)](https://www.nuget.org/packages/blazor.bootstrap/absoluteLatest)
-[![NuGet](https://img.shields.io/nuget/dt/blazor.bootstrap.svg)](https://www.nuget.org/packages/blazor.bootstrap/absoluteLatest)
+[![NuGet](https://img.shields.io/nuget/vpre/blazor.bootstrap.templates)](https://www.nuget.org/packages/blazor.bootstrap.templates/absoluteLatest)
+[![NuGet](https://img.shields.io/nuget/dt/blazor.bootstrap.templates.svg)](https://www.nuget.org/packages/blazor.bootstrap.templates/absoluteLatest)
 
 ## References
 
