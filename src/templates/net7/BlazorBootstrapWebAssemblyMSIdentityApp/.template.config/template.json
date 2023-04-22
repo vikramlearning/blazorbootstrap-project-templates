@@ -11,8 +11,8 @@
       "WebAssembly",
       "Microsoft Identity"
     ],
-    "identity": "Blazor.Bootstrap.Templates.WebAssembly",
-    "name": "Blazor Bootstrap - WebAssembly MSI App",
+    "identity": "Blazor.Bootstrap.Templates.WebAssembly.MSI",
+    "name": "Blazor Bootstrap - WebAssembly App with MSI Authentication",
     "shortName": "blazorbootstrap-wasm-msi",
     "tags": {
       "language": "C#",
