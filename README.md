@@ -32,5 +32,5 @@ Several quick start options are available:
 
 ## Copyright and license
 
-Code and documentation copyright 2023 [Blazor Bootstrap](https://getblazorbootstrap.com/) Code released under the [Apache-2.0 License](https://github.com/vikramlearning/blazorbootstrap-project-templates/blob/master/LICENSE.txt).
+Code and documentation copyright 2023. [Blazor Bootstrap](https://getblazorbootstrap.com/) code released under the [Apache-2.0 License](https://github.com/vikramlearning/blazorbootstrap-project-templates/blob/master/LICENSE.txt).
 
