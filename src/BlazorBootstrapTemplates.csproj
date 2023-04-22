@@ -10,6 +10,8 @@
     <Title>Blazor Bootstrap Templates</Title>
     <Description>Blazor Bootstrap custom templates for dotnet new.</Description>
 
+		<PackageIcon>128X128.png</PackageIcon>
+		<PackageReadmeFile>README.md</PackageReadmeFile>
     <PackageTags>dotnet-new;templates;blazor;webassembly;blazorbootstrap;bootstrap;blazorwebassembly;server;blazorserver</PackageTags>
 		<PackageReleaseNotes>https://github.com/vikramlearning/blazorbootstrap-project-templates/releases</PackageReleaseNotes>
 
@@ -21,7 +23,7 @@
     <IncludeBuildOutput>false</IncludeBuildOutput>
     <ContentTargetFolders>content</ContentTargetFolders>
 
-		<Copyright>Copyright © 2023 Blazor Bootstrap Templates</Copyright>
+		<Copyright>Copyright © 2023 Blazor Bootstrap</Copyright>
   </PropertyGroup>
 
   <ItemGroup>
