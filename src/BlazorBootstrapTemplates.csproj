@@ -1,18 +1,26 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
+    <PackageId>Blazor.Bootstrap.Templates</PackageId>
     <PackageType>Template</PackageType>
     <PackageVersion>0.0.1</PackageVersion>
-    <PackageId>Blazor.Bootstrap.Templates</PackageId>
-    <Title>BlazorBootstrap Templates</Title>
-    <Authors>Vikram Reddy</Authors>
-    <Description>Blazor Bootstrap custom templates for dotnet new.</Description>
-    <PackageTags>dotnet-new;templates;blazor;webassembly;blazorbootstrap;bootstrap;blazorwebassembly;server;blazorserver</PackageTags>
-    <TargetFramework>netstandard2.0</TargetFramework>
 
+    <Authors>Vikram Reddy</Authors>
+    <Title>Blazor Bootstrap Templates</Title>
+    <Description>Blazor Bootstrap custom templates for dotnet new.</Description>
+
+    <PackageTags>dotnet-new;templates;blazor;webassembly;blazorbootstrap;bootstrap;blazorwebassembly;server;blazorserver</PackageTags>
+		<PackageReleaseNotes>https://github.com/vikramlearning/blazorbootstrap-project-templates/releases</PackageReleaseNotes>
+
+		<RepositoryType>git</RepositoryType>
+		<RepositoryUrl>https://github.com/vikramlearning/blazorbootstrap-project-templates</RepositoryUrl>
+
+    <TargetFramework>netstandard2.0</TargetFramework>
     <IncludeContentInPack>true</IncludeContentInPack>
     <IncludeBuildOutput>false</IncludeBuildOutput>
     <ContentTargetFolders>content</ContentTargetFolders>
+
+		<Copyright>Copyright © 2023 Blazor Bootstrap</Copyright>
   </PropertyGroup>
 
   <ItemGroup>

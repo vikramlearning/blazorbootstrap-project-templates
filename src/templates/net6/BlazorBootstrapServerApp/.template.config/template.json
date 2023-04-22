@@ -1,14 +1,13 @@
 {
     "$schema": "http://json.schemastore.org/template",
+    "icon": "icon.png",
     "author": "Vikram Reddy",
     "classifications": [
       "Web", 
       "ASP.NET Core", 
       "Blazor", 
-      "Server", 
-      "BlazorBootstrap", 
-      "Blazor Bootstrap", 
-      "Blazor Bootstrap Server", 
+      "Server",
+      "Blazor Bootstrap",
       "Empty"
     ],
     "identity": "Blazor.Bootstrap.Templates.Server.NET6",

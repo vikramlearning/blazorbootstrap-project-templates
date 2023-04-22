@@ -6,9 +6,7 @@
     "ASP.NET Core", 
     "Blazor", 
     "Server", 
-    "BlazorBootstrap", 
     "Blazor Bootstrap", 
-    "Blazor Bootstrap Server Empty", 
     "Empty"
   ],
   "identity": "Blazor.Bootstrap.Templates.ServerEmpty",

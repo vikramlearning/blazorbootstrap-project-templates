@@ -5,10 +5,8 @@
       "Web", 
       "ASP.NET Core", 
       "Blazor", 
-      "WebAssembly", 
-      "BlazorBootstrap", 
-      "Blazor Bootstrap", 
-      "Blazor Bootstrap WebAssembly Empty", 
+      "WebAssembly",
+      "Blazor Bootstrap",
       "Empty"
     ],
     "identity": "Blazor.Bootstrap.Templates.WebAssemblyEmpty",

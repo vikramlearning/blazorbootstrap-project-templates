@@ -5,10 +5,8 @@
     "Web", 
     "ASP.NET Core", 
     "Blazor", 
-    "Server", 
-    "BlazorBootstrap", 
+    "Server",
     "Blazor Bootstrap", 
-    "Blazor Bootstrap Server", 
     "Empty"
   ],
   "identity": "Blazor.Bootstrap.Templates.Server",
