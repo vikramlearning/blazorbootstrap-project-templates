@@ -5,6 +5,7 @@
 ## Table of contents
 
 - [Quick start](#quick-start)
+- [Status](#status)
 - [References](#references)
 - [Creators](#creators)
 - [Copyright and license](#copyright-and-license)
@@ -15,6 +16,11 @@ Several quick start options are available:
 
 - Clone the repo: `git clone https://github.com/vikramlearning/blazorbootstrap-project-templates.git`
 - Install with [NuGet](https://www.nuget.org/): `dotnet new install Blazor.Bootstrap.Templates::0.0.1` 
+
+## Status
+
+[![NuGet](https://img.shields.io/nuget/vpre/blazor.bootstrap)](https://www.nuget.org/packages/blazor.bootstrap/absoluteLatest)
+[![NuGet](https://img.shields.io/nuget/dt/blazor.bootstrap.svg)](https://www.nuget.org/packages/blazor.bootstrap/absoluteLatest)
 
 ## References
 
