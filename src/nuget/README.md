@@ -15,7 +15,7 @@
 Several quick start options are available:
 
 - Clone the repo: `git clone https://github.com/vikramlearning/blazorbootstrap-project-templates.git`
-- Install with .NET CLI: `dotnet new install Blazor.Bootstrap.Templates::1.9.0` 
+- Install with .NET CLI: `dotnet new install Blazor.Bootstrap.Templates::1.9.1` 
 
 ## Status
 
