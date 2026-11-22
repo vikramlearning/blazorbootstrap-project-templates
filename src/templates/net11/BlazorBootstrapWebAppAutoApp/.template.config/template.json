@@ -1,0 +1,24 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "icon": "icon.png",
+  "author": "Vikram Reddy",
+  "classifications": [
+    "ASP.NET Core",
+    "Blazor",
+    "Blazor Bootstrap",
+    "Web",
+    "Server",
+    "WebAssembly"
+  ],
+  "identity": "Blazor.Bootstrap.Templates.WebAppAuto.NET11",
+  "name": "Blazor Bootstrap - Web App (Auto interactivity) (.NET 11)",
+  "shortName": "blazorbootstrap-webapp-auto-net11",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "sourceName": "BlazorBootstrapWebAppAutoApp",
+  "description": "A Blazor Web App with Blazor Bootstrap and global Auto interactivity (Server, then WebAssembly).",
+  "preferNameDirectory": true,
+  "symbols": {}
+}

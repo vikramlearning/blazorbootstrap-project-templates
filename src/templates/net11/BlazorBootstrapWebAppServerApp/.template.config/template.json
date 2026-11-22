@@ -1,0 +1,23 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "icon": "icon.png",
+  "author": "Vikram Reddy",
+  "classifications": [
+    "ASP.NET Core",
+    "Blazor",
+    "Blazor Bootstrap",
+    "Web",
+    "Server"
+  ],
+  "identity": "Blazor.Bootstrap.Templates.WebAppServer.NET11",
+  "name": "Blazor Bootstrap - Web App (Server interactivity) (.NET 11)",
+  "shortName": "blazorbootstrap-webapp-server-net11",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "sourceName": "BlazorBootstrapWebAppServerApp",
+  "description": "A Blazor Web App with Blazor Bootstrap and global Server interactivity.",
+  "preferNameDirectory": true,
+  "symbols": {}
+}

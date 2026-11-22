@@ -1,0 +1,23 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "icon": "icon.png",
+  "author": "Vikram Reddy",
+  "classifications": [
+    "ASP.NET Core",
+    "Blazor",
+    "Blazor Bootstrap",
+    "Web",
+    "WebAssembly"
+  ],
+  "identity": "Blazor.Bootstrap.Templates.WebAssembly.NET11",
+  "name": "Blazor Bootstrap - WebAssembly Standalone App (.NET 11)",
+  "shortName": "blazorbootstrap-wasm-net11",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "sourceName": "BlazorBootstrapWebAssemblyApp",
+  "description": "A standalone Blazor WebAssembly app with Blazor Bootstrap that runs in the browser.",
+  "preferNameDirectory": true,
+  "symbols": {}
+}

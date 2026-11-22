@@ -15,7 +15,8 @@
 Several quick start options are available:
 
 - Clone the repo: `git clone https://github.com/vikramlearning/blazorbootstrap-project-templates.git`
-- Install with .NET CLI: `dotnet new install Blazor.Bootstrap.Templates::1.10.0` 
+- Install with .NET CLI: `dotnet new install Blazor.Bootstrap.Templates::1.11.0` 
+- Create a .NET 11 or .NET 10 app: `dotnet new blazorbootstrap-webapp-server-net11 -o MyApp` (also `blazorbootstrap-webapp-auto-net11`, `blazorbootstrap-wasm-net11`, and the `-net10` versions)
 
 ## Status
 
